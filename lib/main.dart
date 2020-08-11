@@ -5,7 +5,7 @@ import 'package:flash_chat/screens/registration_screen.dart';
 import 'package:flash_chat/screens/chat_screen.dart';
 
 void main() => runApp(FlashChat());
-
+fghjklhj
 class FlashChat extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
